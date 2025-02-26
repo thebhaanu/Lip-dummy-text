@@ -10,7 +10,7 @@ A free and open-source Lorem Ipsum Generator that allows users to generate place
 - Open-source and free to use.
 
 ## Demo
-You can try the live version here: [Live Demo]( /Lip-dummy-text/)
+You can try the live version here: [Live Demo](https://thebhaanu.github.io/Lip-dummy-text/).
 
 ## Installation
 To run this project locally, follow these steps:
