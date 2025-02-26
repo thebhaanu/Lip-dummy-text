@@ -1,4 +1,4 @@
-# Lorem Ipsum Generator
+# Lorem Ipsum Text Generator
 
 A free and open-source Lorem Ipsum Generator that allows users to generate placeholder text in plain text, HTML, or Markdown formats. Designed with a clean UI.
 
